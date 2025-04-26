@@ -38,10 +38,10 @@ Follow these steps to set up and run the FullStackApp locally:
 1. Clone the backend repository:
 
    ```bash
-   git clone https://github.com/arjungautam1/fullstack-backend.git
+   git clone https://github.com/AshwiniGidaveer82/fullstack-backend.git
 
 1. Clone the Frontend repository:
 
    ```bash
-    git clone https://github.com/arjungautam1/fullstack-frontend.git
+    git clone https://github.com/AshwiniGidaveer82/fullstack-frontend.git
 
